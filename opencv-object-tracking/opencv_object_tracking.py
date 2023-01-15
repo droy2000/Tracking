@@ -1,6 +1,7 @@
 # USAGE
 # python opencv_object_tracking.py
 # python opencv_object_tracking.py --video dashcam_boston.mp4 --tracker csrt
+# http://192.168.43.252:81/stream
 
 # import the necessary packages
 from imutils.video import VideoStream
